@@ -1,5 +1,5 @@
 AmyCable - Sublime Text 2/3 Color Scheme
-========================================
+----------------------------------------
 
 A version of the great Amy theme with faded comments.
 
